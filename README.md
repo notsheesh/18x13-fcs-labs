@@ -1,8 +1,8 @@
-# 18x613 Labs
-- [C language](https://github.com/notsheesh/18613-c-lab)
-- [Data](https://github.com/notsheesh/18613-data-lab)
-- [Bomb](https://github.com/notsheesh/18613-bomb-lab)
-- [Attack](https://github.com/notsheesh/18613-attack-lab)
-- [Cache](https://github.com/notsheesh/18613-cache-lab)
-- [Malloc](https://github.com/notsheesh/18613-malloc-lab)
-- [Proxy](https://github.com/notsheesh/18613-proxy-lab)
+# 18x613 Index
+- [C lab](https://github.com/notsheesh/18613-c-lab)
+- [Data lab](https://github.com/notsheesh/18613-data-lab)
+- [Bomb lab](https://github.com/notsheesh/18613-bomb-lab)
+- [Attack lab](https://github.com/notsheesh/18613-attack-lab)
+- [Cache lab](https://github.com/notsheesh/18613-cache-lab)
+- [Malloc lab](https://github.com/notsheesh/18613-malloc-lab)
+- [Proxy lab](https://github.com/notsheesh/18613-proxy-lab)
