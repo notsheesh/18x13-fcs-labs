@@ -1,4 +1,4 @@
-# 18x613 Index
+# 18613 Index
 - [C lab](https://github.com/notsheesh/18613-c-lab)
 - [Data lab](https://github.com/notsheesh/18613-data-lab)
 - [Bomb lab](https://github.com/notsheesh/18613-bomb-lab)
