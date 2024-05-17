@@ -7,5 +7,5 @@
 - [Malloc lab](https://github.com/notsheesh/18613-malloc-lab)
 - [Proxy lab](https://github.com/notsheesh/18613-proxy-lab)
 
-The linked repositories are private to honour CMU's academic integrity policies 
+The linked repositories are private to honour CMU's academic integrity policies <br>
 Kindly reach out to me at shreesh [at] cmu [dot] edu if you wish to learn more 
