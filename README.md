@@ -1,5 +1,5 @@
 # 18613 Index
-- [C lab](https://github.com/notsheesh/18613-c-lab): C language and memory management 
+- [C lab](https://github.com/notsheesh/18613-c-lab): C language and memory management basics
 - [Data lab](https://github.com/notsheesh/18613-data-lab): Binary data representation and manipulation
 - [Bomb lab](https://github.com/notsheesh/18613-bomb-lab): Assembly reverse engineering to disarm a binary bomb 
 - [Attack lab](https://github.com/notsheesh/18613-attack-lab): Buffer overflow and code injection attacks 
