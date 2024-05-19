@@ -1,0 +1,24 @@
+[submodule "18613-shell-lab"]
+	path = 18613-shell-lab
+	url = https://github.com/notsheesh/18613-shell-lab.git
+[submodule "18613-cache-lab"]
+	path = 18613-cache-lab
+	url = https://github.com/notsheesh/18613-cache-lab.git
+[submodule "18613-malloc-lab"]
+	path = 18613-malloc-lab
+	url = https://github.com/notsheesh/18613-malloc-lab.git
+[submodule "18613-attack-lab"]
+	path = 18613-attack-lab
+	url = https://github.com/notsheesh/18613-attack-lab.git
+[submodule "18613-bomb-lab"]
+	path = 18613-bomb-lab
+	url = https://github.com/notsheesh/18613-bomb-lab.git
+[submodule "18613-data-lab"]
+	path = 18613-data-lab
+	url = https://github.com/notsheesh/18613-data-lab.git
+[submodule "18613-proxy-lab"]
+	path = 18613-proxy-lab
+	url = https://github.com/notsheesh/18613-proxy-lab.git
+[submodule "18613-c-lab"]
+	path = 18613-c-lab
+	url = https://github.com/notsheesh/18613-c-lab.git
