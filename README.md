@@ -9,4 +9,6 @@
 - [Proxy lab](https://github.com/notsheesh/18613-proxy-lab): Multithreaded Proxy Server
 
 The linked repositories are private to honour CMU's academic integrity policies <br>
-Kindly reach out to me at shreesh [at] cmu [dot] edu if you wish to learn more 
+Kindly reach out to me if you wish to learn more: 
+- shreesh [at] cmu [dot] edu
+- xshreesh [at] gmail [dot] com
